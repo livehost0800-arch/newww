@@ -1,9 +1,1 @@
-{
-  "name": "Selkies Light",
-  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
-  "features": {
-    "ghcr.io/devcontainers/features/docker-outside-of-docker:1": {}
-  },
-  "forwardPorts": [8080],
-  "remoteUser": "codespace"
-}
+
